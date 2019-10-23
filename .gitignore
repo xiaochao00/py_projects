@@ -1,0 +1,19 @@
+
+# 忽略Windows自动在有图片的目录下生成隐藏的缩略图文件，如果有自定义目录，则忽略目录下的Desktop.ini文件:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+ 
+ 
+# 忽略Python编译产生的.pyc、.pyo、dist等文件或目录，以及日志：
+*.log
+*.py[cod]
+*.egg
+*.egg-info
+.idea/
+dist
+build
+ 
+# My configurations 自定义文件:
+db.ini
+deploy_key_rsa
