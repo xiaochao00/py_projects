@@ -12,3 +12,10 @@
 
 ## docx
 ### window
+    python3 -m pip install python_docx -i https://pypi.tuna.tsinghua.edu.cn/simple/
+    python3 -m pip install pypwin32com -i https://pypi.tuna.tsinghua.edu.cn/simple/
+
+### linux
+    yum install libreoffice / apt install libreoffice
+    pnstall python_docx -i https://pypi.tuna.tsinghua.edu.cn/simple/
+    
